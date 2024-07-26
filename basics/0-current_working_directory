@@ -1,2 +1,3 @@
 #!/bin/bash
-pwd ./0-holbertonschool-shell/basics
+pwd ./0-current_working_directory
+/root/holbertonschool-shell/basics
