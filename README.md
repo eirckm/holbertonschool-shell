@@ -1,1 +1,1 @@
-"shell practices"
+proyecto practico de shell basico
