@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd ./0-root/holbertonschool-shell/basics
+print pwd
