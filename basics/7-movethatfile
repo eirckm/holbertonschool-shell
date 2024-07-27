@@ -1,2 +1,6 @@
 #!/bin/bash
-mv /basics/tmp/my_first_directory/ betty /basics/tmp/
+mv /basics/tmp/my_first_directory/ betty 
+
+
+
+/basics/tmp/
