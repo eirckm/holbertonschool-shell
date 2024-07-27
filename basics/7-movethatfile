@@ -1,2 +1,2 @@
-#!/bin/bash
-mv /root/holbertonschool-shell/basics/tmp/betty /root/holbertonschool-shell/basics/tmp/my_first_directory
+i#!/bin/bash
+mv /root/holbertonschool-shell/basics/tmp/my_first_directory/betty /root/holbertonschool-shell/basics/tmp/
