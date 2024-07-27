@@ -1,6 +1,2 @@
 #!/bin/bash
-mv /basics/tmp/my_first_directory/ betty 
-
-
-
-/basics/tmp/
+rm /root/holbertonschool-shell/basics/tmp/betty touch /root/holbertonschool-shell/basics/tmp/my_first_directory/betty
