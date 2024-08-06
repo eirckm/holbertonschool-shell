@@ -1,0 +1,2 @@
+#!/bin/bash
+echo PAHT -type d | wc -l
