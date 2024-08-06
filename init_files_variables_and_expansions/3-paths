@@ -1,2 +1,2 @@
 #!/bin/bash
-echo PAHT -type d | wc -l
+printenv "PAHT" | wc -l
